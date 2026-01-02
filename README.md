@@ -30,5 +30,5 @@ I'm a **Student Developer** with a deep interest in building robust applications
 - 💬 Ask me about: Spring Boot architecture or React state management.
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/madhusudhan-c-55abaa296)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-c-55abaa296)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](madhusudhan61007@gmail.com)
