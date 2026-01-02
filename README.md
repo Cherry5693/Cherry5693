@@ -1,11 +1,11 @@
 # Hi there, I'm C Madhusudhan! 👋 
 
-I'm a **Student Developer** with a deep interest in building robust applications and solving complex logic through DSA. 
+I'm a **Student Developer** and an aspiring Full-Stack Engineer. I am passionate about building scalable applications and solving complex problems through Data Structures and Algorithms.
 
 ### 🛠️ What I'm working on
-- 🔭 **Mastering DSA:** Currently sharpening my problem-solving skills in Java.
-- 💻 **Full-Stack Development:** Building projects using the **Spring Boot** + **React** ecosystem.
-- 🐳 **Infrastructure:** Containerizing my applications with **Docker**.
+- 🔭 **Mastering DSA:** Solving problems daily on LeetCode to sharpen my logic.
+- 💻 **Full-Stack:** Developing backend services with **Spring Boot** and frontends with **React**.
+- 🐳 **DevOps:** Learning to containerize applications using **Docker**.
 
 ---
 
@@ -17,18 +17,23 @@ I'm a **Student Developer** with a deep interest in building robust applications
 
 ---
 
-### 🏆 My GitHub Trophies
-*(If this image is also broken, it means GitHub's external image server is currently having issues with your new account. Give it 24 hours to sync!)*
+### 📊 Performance & Statistics
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Cherry5693&theme=tokyonight&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+#### 🧩 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/cherry5693?theme=dark&font=JetBrains%20Mono)
+
+#### 📈 GitHub Activity
+![Madhusudhan's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Cherry5693&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cherry5693&layout=compact&theme=tokyonight)
 
 ---
 
 ### ⚡ Fun Facts
-- 🧩 I love breaking down complex problems into simple steps.
-- ☕ Powered by Java (literally and figuratively).
+- 🧩 I enjoy breaking down complex problems into simple, efficient code.
+- ☕ Powered by Java and curious about system design.
 - 💬 Ask me about: Spring Boot architecture or React state management.
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudhan-c-55abaa296)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](madhusudhan61007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
