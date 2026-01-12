@@ -29,10 +29,10 @@ I'm a **Student Developer** and an aspiring Full-Stack Engineer. I am passionate
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ About Me
 - 🧩 I enjoy breaking down complex problems into simple, efficient code.
 - ☕ Powered by Java and curious about system design.
-- 💬 Ask me about: Spring Boot architecture or React state management.
+- 💬 Ask me about: Spring Boot, backend architecture or React basics.
 
 ### 📫 If you want to connect, drop a message anytime.:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
