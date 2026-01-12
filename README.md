@@ -34,6 +34,6 @@ I'm a **Student Developer** and an aspiring Full-Stack Engineer. I am passionate
 - ☕ Powered by Java and curious about system design.
 - 💬 Ask me about: Spring Boot architecture or React state management.
 
-### 📫 Let's Connect:
+### 📫 If you want to connect, drop a message anytime.:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
